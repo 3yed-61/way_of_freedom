@@ -497,6 +497,4 @@
 * به یاد یوسف قبادی
 * به یاد سگارو
 
-[صحبت های سارینا اسماعیل زاده](https://www.youtube.com/watch?v=gpRnvFZ3vTU&t=52s)
 
-[مجیدرضا رهنورد](https://www.youtube.com/watch?v=N3Yo009a7Uc)
