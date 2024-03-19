@@ -1,12 +1,12 @@
-site_name: Sarina
+site_name: 3yed
 site_author: wayoffreedom.sbs
-site_url: 'https://wayoffreedom.sbs/'
+site_url: 'https://github.com/majidrezarahnavard/way_of_freedom'
 repo_url: https://github.com/majidrezarahnavard/way_of_freedom
-repo_name: majidrezarahnavard/way_of_freedom
-copyright: Copyleft &copy; 2024 Sarina
+repo_name: 3yed-61/way_of_freedom
+copyright: Copyleft &copy; 2024 3yed
 site_description: آموزش دسترسی به اینترنت آزاد
 remote_branch: docs
-edit_uri: https://github.com/majidrezarahnavard/way_of_freedom/edit/main/docs/
+edit_uri: https://github.com/3yed-61/way_of_freedom/edit/main/docs/
 watch:
   - includes
 theme:
